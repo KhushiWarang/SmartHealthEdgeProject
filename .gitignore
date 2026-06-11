@@ -3,11 +3,22 @@ venv/
 __pycache__/
 *.pyc
 
+# Dataset
+dataset/
+
+# Test files
+ml_model/X_test.npy
+ml_model/y_test.npy
+
 # Flutter
 .dart_tool/
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Flutter generated files
+mobile_app/.metadata
+mobile_app/pubspec.lock
 
 # Android
 .gradle/
@@ -15,24 +26,7 @@ build/
 # IDE
 .idea/
 .vscode/
+*.iml
 
 # Logs
 *.log
-# Dataset
-dataset/
-
-# Python virtual environment
-venv/
-# Dataset
-dataset/
-
-# Virtual env
-venv/
-
-# Test files
-ml_model/X_test.npy
-ml_model/y_test.npy
-
-# Flutter generated
-mobile_app/.metadata
-mobile_app/pubspec.lock
