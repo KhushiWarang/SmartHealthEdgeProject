@@ -1,0 +1,38 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+# Dataset
+dataset/
+
+# Python virtual environment
+venv/
+# Dataset
+dataset/
+
+# Virtual env
+venv/
+
+# Test files
+ml_model/X_test.npy
+ml_model/y_test.npy
+
+# Flutter generated
+mobile_app/.metadata
+mobile_app/pubspec.lock
