@@ -129,23 +129,23 @@ SmartHealthEdgeProject/
 
 ### Login Screen
 
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/login_screen.jpg)
 
 ### Patient Registration
 
-![Patient Registration](screenshots/patient_registration.png)
+![Patient Registration](screenshots/patient_registration.jpg)
 
 ### ECG Monitoring Dashboard
 
-![ECG Dashboard](screenshots/ecg_dashboard.png)
+![ECG Dashboard](screenshots/ecg_dashboard.jpg)
 
 ### Critical Condition Detection
 
-![Critical Alert](screenshots/critical_alert.png)
+![Critical Alert](screenshots/critical_alert.jpg)
 
 ### Doctor Alert Dashboard
 
-![Doctor Dashboard](screenshots/doctor_dashboard.png)
+![Doctor Dashboard](screenshots/doctor_dashboard.jpg)
 
 ## Future Enhancements
 
