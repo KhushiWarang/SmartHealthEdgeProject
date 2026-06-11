@@ -125,6 +125,28 @@ SmartHealthEdgeProject/
 - Healthcare research and education
 - Edge AI healthcare solutions
 
+## Application Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/login_screen.png)
+
+### Patient Registration
+
+![Patient Registration](screenshots/patient_registration.png)
+
+### ECG Monitoring Dashboard
+
+![ECG Dashboard](screenshots/ecg_dashboard.png)
+
+### Critical Condition Detection
+
+![Critical Alert](screenshots/critical_alert.png)
+
+### Doctor Alert Dashboard
+
+![Doctor Dashboard](screenshots/doctor_dashboard.png)
+
 ## Future Enhancements
 
 - Integration with real ECG sensors and wearable devices
